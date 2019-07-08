@@ -1,3 +1,14 @@
+li{
+  color: rgb(0,0,0);
+  background-color: red;
+  margin: 5px;
+  display: inline-block;
+  width: 20%;
+  padding: 20px 10px 20px 10px;
+  font-weight: bold;
+  text-align: center;
+  border-radius: 80%;
+}
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
